@@ -19,8 +19,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
 
 
 ### Frontend  
@@ -33,9 +31,6 @@
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="100%">
-
 
 
 ### Design  
