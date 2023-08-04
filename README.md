@@ -14,8 +14,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-<a href="https://www.codewars.com/users/AndriiBUBA" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/AndriiBUBA/badges/large
-" alt="codewars" height="50" /></a>  
+<a href="https://www.codewars.com/users/AndriiBUBA" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/AndriiBUBA/badges/large" alt="codewars" height="50" /></a>  
 <br/>  
 
 
