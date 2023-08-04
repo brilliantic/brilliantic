@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="left" style="width: 200px">"Frontend development is like painting a masterpiece with pixels, turning imagination into reality one line of code at a time." - Anonymous Frontend Developer</div>  
+### <div align="left">"Frontend development is like painting a masterpiece with pixels, turning imagination into reality one line of code at a time." - Anonymous Frontend Developer</div>  
   
 
 - 🌱  I'm currently learning React and improving my English.  
