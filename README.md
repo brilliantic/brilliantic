@@ -14,7 +14,9 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
+[<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg](https://www.codewars.com/users/AndriiBUBA/badges/large
+)" alt="React" height="50" /></a>  ](https://www.codewars.com/users/AndriiBUBA/badges/large
+)
 <br/>  
 
 
