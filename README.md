@@ -63,6 +63,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andrii-romanenko-2888327a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="[@BUBA_od](https://t.me "Telegram channel")" target="_blank">
+<img src=![image](https://github.com/brilliantic/brilliantic/assets/125657585/f9379063-edc2-4112-9f8c-7890db773f1e)
+ alt=Telegram style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 
